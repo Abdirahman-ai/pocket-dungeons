@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
+import { PhaserWrapperComponent } from './phaser-wrapper/phaser-wrapper.component';
 
 @Component({
   selector: 'app-root',
-  imports: [],
+  imports: [PhaserWrapperComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
