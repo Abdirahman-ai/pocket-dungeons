@@ -13,6 +13,11 @@ Navigate through dangerous corridors, dodge a chasing enemy, and find the exit t
 - ♻️ Fully modular and scalable game logic
 - ⚙️ Integrated into an Angular app with a responsive, centered canvas
 
+## 🎮 Live Demo
+
+Play the game here: **[https://abdirahman-ai.github.io/pocket-dungeons/](https://abdirahman-ai.github.io/pocket-dungeons/)**
+
+
 ## 🧠 Tech Stack
 
 - [Angular](https://angular.io/)
